@@ -11,5 +11,16 @@
     "jest": "^24.9.0"
   },
   "dependencies": {},
+  "directories": {
+    "doc": "doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhinvhum/jest_testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dhinvhum/jest_testing/issues"
+  },
+  "homepage": "https://github.com/dhinvhum/jest_testing#readme",
   "description": ""
 }
