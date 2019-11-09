@@ -2,3 +2,4 @@ calculator:
   build:
     image: calculator
     dockerfile: Dockerfile
+      CODECOV_TOKEN=8a3eb77d-4135-43b3-8637-b47436129329
