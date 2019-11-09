@@ -23,4 +23,9 @@
   },
   "homepage": "https://github.com/dhinvhum/jest_testing#readme",
   "description": ""
+  
+  "jest": {
+  "coverageDirectory": "./coverage/",
+  "collectCoverage": true
+}
 }
